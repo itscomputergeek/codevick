@@ -39,7 +39,7 @@ django-js-asset==1.2.2
 django-mptt==0.11.0
 django-recaptcha==2.0.6
 django-storages==1.10.1
-djangorestframework==3.11.1
+djangorestframework==3.11.2
 docker==4.2.2
 docker-compose==1.26.2
 dockerpty==0.4.1
